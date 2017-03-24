@@ -14,8 +14,8 @@
 
 - [建立你的 R 語言開發環境](https://yaojenkuo.github.io/r_programming/ch1)
 - [單一變數與函數](https://yaojenkuo.github.io/r_programming/ch2)
-- [簡單的繪圖（Base plotting system）](https://yaojenkuo.github.io/r_programming/ch3)
 - [基本資料結構](https://yaojenkuo.github.io/r_programming/ch4)
+- [簡單的繪圖（Base plotting system）](https://yaojenkuo.github.io/r_programming/ch3)
 - [簡單的繪圖（ggplot2）](https://yaojenkuo.github.io/r_programming/ch5)
 - [用 RMarkdown 撰寫報告](https://yaojenkuo.github.io/r_programming/ch10)
 - [讀取不同的資料格式](https://yaojenkuo.github.io/r_programming/ch6)
@@ -37,7 +37,7 @@
 
 ### 近期上課錄影
 
-
+[280 期 R 語言新手村假日專題班](https://goo.gl/283MRV)
 
 ### 推薦學習資源/書籍
 
