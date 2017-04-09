@@ -1,0 +1,21 @@
+---
+title: "期末作業"
+author: "郭耀仁"
+date: "`r Sys.Date()`"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 期末作業
+
+- 將一到兩個 R 語言的好問題寄到 <tony@kyosei.ai>
+- 如何定義好問題？
+    - 範圍適當
+    - 描述清楚
+    - 可能對其他的同學有幫助
+    - 有影片輔助解釋（optional）
+- 繳交期限：4/17(Mon) 12:00
+- 信件主旨：[281 期 R 語言新手村]姓名
